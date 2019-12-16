@@ -1,1 +1,1 @@
-# SNS-project
+# Multi-Scale Template Detection
